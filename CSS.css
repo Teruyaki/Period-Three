@@ -1,0 +1,12 @@
+#div1 {
+ width: 50%;
+  height: 25%;
+ background-color: red;
+ float: left;
+}
+#div2 {
+ width: 50%;
+height: 25%;
+background-color: blue;
+float: left;
+}
